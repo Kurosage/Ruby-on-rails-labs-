@@ -1,5 +1,5 @@
 # Ruby-on-rails-labs-
 # Лабораторные работы на языке Ruby
-
-<img src="DiceRoller/diceroller.png" alt="diceroller" width="250"/>
+## Глава 1(hello_app)
+<img src="hello_app/hello_app.png" alt="hello_app" width="250"/>
 
