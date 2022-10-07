@@ -17,3 +17,15 @@
 <img src="hello_app/2gl.png" alt="micro" width="250"/>
 
 
+## Глава 3(Папка: sample_app)
+
+###Представление всех страниц
+<img src="sample_app/home.png" alt="pages" width="250"/>
+
+###Тесты
+3.3.1 
+
+<img src="sample_app/331.png" alt="331" width="250"/>
+
+
+<img src="hello_app/2gl.png" alt="micro" width="250"/>
