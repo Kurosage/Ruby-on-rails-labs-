@@ -58,3 +58,31 @@
 
 <img src="sample_app/371.png" alt="371" width="500"/>
 
+
+## Глава 4(Папка: sample_app)
+
+
+#### **4.5 and 4.6**
+
+<img src="sample_app/4.5.png" alt="4.5" width="500"/>
+
+<img src="sample_app/46.png" alt="46" width="500"/>
+
+
+### **Rails console**(Упражнение)
+4.14
+
+<img src="sample_app/4.1.png" alt="41" width="250"/>
+
+4.25
+
+<img src="sample_app/42.png" alt="42" width="250"/>
+
+
+
+
+
+## Глава 5(Папка: sample_app)
+
+
+<img src="sample_app/51.png" alt="51" width="500"/>
