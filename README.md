@@ -78,10 +78,6 @@
 
 <img src="sample_app/42.png" alt="42" width="250"/>
 
-
-
-
-
 ## Глава 5(Папка: sample_app)
 
 
