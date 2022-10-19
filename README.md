@@ -176,3 +176,5 @@
 #### Упражнение
 
 <img src="sample_app/upr6.png" alt="upr6" width="450"/>
+
+## Глава 7(Папка: sample_app)
