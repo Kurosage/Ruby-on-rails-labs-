@@ -124,3 +124,36 @@
 #### Листинг 5.35: Начальная страница регистрации (заглушка).
 
 <img src="sample_app/535.png" alt="535" width="250"/>
+
+
+## Глава 6(Папка: sample_app)
+
+#### 6.1.3 Создание объектов user
+
+<img src="sample_app/613_4.png" alt="6134" width="350"/>
+
+#### 6.1.5 Обновление объектов user
+
+<img src="sample_app/615.png" alt="615" width="350"/>
+
+### 6.2 Валидации User
+
+#### 6.2.1 Тесты валидности
+
+<img src="sample_app/621.png" alt="621" width="350"/>
+
+#### 6.2.2 Валидация наличия
+
+<img src="sample_app/622.png" alt="622" width="350"/>
+
+#### 6.2.2 Валидация наличия
+
+<img src="sample_app/622.png" alt="622" width="250"/>
+
+#### 6.2.3 Валидация длины
+
+<img src="sample_app/623.png" alt="623" width="250"/>
+
+#### 6.2.4 Валидация формата
+
+<img src="sample_app/624.png" alt="624" width="250"/>
