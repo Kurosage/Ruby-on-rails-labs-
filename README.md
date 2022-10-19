@@ -130,30 +130,49 @@
 
 #### 6.1.3 Создание объектов user
 
-<img src="sample_app/613_4.png" alt="6134" width="350"/>
+<img src="sample_app/613_4.png" alt="6134" width="450"/>
 
 #### 6.1.5 Обновление объектов user
 
-<img src="sample_app/615.png" alt="615" width="350"/>
+<img src="sample_app/615.png" alt="615" width="450"/>
 
 ### 6.2 Валидации User
 
 #### 6.2.1 Тесты валидности
 
-<img src="sample_app/621.png" alt="621" width="350"/>
+<img src="sample_app/621.png" alt="621" width="450"/>
 
 #### 6.2.2 Валидация наличия
 
-<img src="sample_app/622.png" alt="622" width="350"/>
+<img src="sample_app/622.png" alt="622" width="450"/>
 
 #### 6.2.2 Валидация наличия
 
-<img src="sample_app/622.png" alt="622" width="250"/>
+<img src="sample_app/622.png" alt="622" width="450"/>
 
 #### 6.2.3 Валидация длины
 
-<img src="sample_app/623.png" alt="623" width="250"/>
+<img src="sample_app/623.png" alt="623" width="450"/>
 
 #### 6.2.4 Валидация формата
 
-<img src="sample_app/624.png" alt="624" width="250"/>
+<img src="sample_app/624.png" alt="624" width="450"/>
+
+
+#### 6.2.5 Валидация уникальности
+
+<img src="sample_app/625.png" alt="625" width="450"/>
+
+### 6.3 Добавление безопасного пароля
+
+#### 6.3.2 Пользователь has secure password
+
+<img src="sample_app/632.png" alt="632" width="450"/>
+
+#### 6.3.3 Минимальные стандарты паролей
+
+<img src="sample_app/633.png" alt="633" width="450"/>
+
+#### Упражнение
+
+<img src="sample_app/upr6.png" alt="upr6" width="450"/>
