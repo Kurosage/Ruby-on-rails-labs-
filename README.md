@@ -271,4 +271,3 @@
 <img src="sample_app/png_file/845.png" alt="845" width="250"/>
 
 
-
