@@ -417,25 +417,4 @@
 
 <img src="sample_app/png_file/1141.png" alt="1141" width="450"/>
 
-### 11.4.2 Валидация изображений
-<img src="sample_app/png_file/1142.png" alt="1142" width="450"/>
-
-### 11.3.5 Тесты микросообщений
-
-<img src="sample_app/png_file/1025.png" alt="1025" width="450"/>
-
-### 11.3.5 Тесты микросообщений
-
-<img src="sample_app/png_file/1025.png" alt="1025" width="450"/>
-
-### 11.3.5 Тесты микросообщений
-
-<img src="sample_app/png_file/1025.png" alt="1025" width="450"/>
-
-### 11.3.5 Тесты микросообщений
-
-<img src="sample_app/png_file/1025.png" alt="1025" width="450"/>
-
-### 11.3.5 Тесты микросообщений
-
-<img src="sample_app/png_file/1025.png" alt="1025" width="450"/>
+>
