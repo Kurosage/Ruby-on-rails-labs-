@@ -436,12 +436,8 @@
 <img src="sample_app/png_file/1222.png" alt="1222" width="450"/>
 
 ### 12.2.3 Страницы читаемых и читателей
-<img src="sample_app/png_file/1223.png" alt="1025" width="450"/>
+<img src="sample_app/png_file/1223.png" alt="1223" width="450"/>
 
 ### 12.2.4 Стандартный способ реализации кнопки “Читать”
 
-<img src="sample_app/png_file/1224.png" alt="1124" width="450"/>
-
-### 12.2.6 Тесты следования за пользователем
-
-<img src="sample_app/png_file/1226.png" alt="1126" width="450"/>
+<img src="sample_app/png_file/1224.png" alt="1224" width="450"/>
